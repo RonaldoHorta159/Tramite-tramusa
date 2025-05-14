@@ -27,6 +27,7 @@ class DatabaseSeeder extends Seeder
             EstadoDocumentoSeeder::class,
             MedioEnvioSeeder::class,
             OficinaSeeder::class,
+            ParteSeeder::class,
             // ...otros seeders futuros
         ]);
     }
